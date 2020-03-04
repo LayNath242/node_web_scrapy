@@ -1,0 +1,26 @@
+[
+    {
+        "title": "John Wick (2014)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "rating": "7.4",
+        "totalRating": "497,400",
+        "releaseDate": "24 October 2014 (USA)",
+        "genres": ["Action", "Crime", "Thriller"]
+    },
+    {
+        "title": "John Wick: Chapter 2 (2017)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "rating": "7.5",
+        "totalRating": "333,244",
+        "releaseDate": "10 February 2017 (USA)",
+        "genres": ["Action", "Crime", "Thriller"]
+    },
+    {
+        "title": "John Wick: Chapter 3 - Parabellum (2019)",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "rating": "7.5",
+        "totalRating": "227,053",
+        "releaseDate": "17 May 2019 (USA)",
+        "genres": ["Action", "Crime", "Thriller"]
+    }
+]
